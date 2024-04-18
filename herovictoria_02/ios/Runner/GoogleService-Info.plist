@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>803921193676-75trm4i6efn1r7486226fkjgo0c1f6h8.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.803921193676-75trm4i6efn1r7486226fkjgo0c1f6h8</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCCbW5MkywdvRdXSYFcstoN0e_IsZenIic</string>
+	<key>GCM_SENDER_ID</key>
+	<string>803921193676</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.herovictoria02</string>
+	<key>PROJECT_ID</key>
+	<string>hero-7cba3</string>
+	<key>STORAGE_BUCKET</key>
+	<string>hero-7cba3.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:803921193676:ios:caafb141df6d02acec3069</string>
+	<key>DATABASE_URL</key>
+	<string>https://hero-7cba3-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

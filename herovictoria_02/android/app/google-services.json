@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "803921193676",
+    "firebase_url": "https://hero-7cba3-default-rtdb.firebaseio.com",
+    "project_id": "hero-7cba3",
+    "storage_bucket": "hero-7cba3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:803921193676:android:d96d4ce7f8ac669fec3069",
+        "android_client_info": {
+          "package_name": "com.example.herovictoria_02"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "803921193676-svvdjuhu09hgsf5k0scc71o8uc7cvqdv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGKRbd5izLq7nQxIkW6k-9NjGRfVQIJho"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "803921193676-svvdjuhu09hgsf5k0scc71o8uc7cvqdv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
